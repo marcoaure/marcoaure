@@ -2,7 +2,7 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-[![Linkedin Badge](https://img.shields.io/badge/-harshkumarkhatri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcoaure/)](https://www.linkedin.com/in/marcoaure/)
+[![Linkedin Badge](https://img.shields.io/badge/-marcoaure-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcoaure/)](https://www.linkedin.com/in/marcoaure/)
 [![Gmail Badge](https://img.shields.io/badge/-marcoaure47@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcoaure47@gmail.com)](mailto:marcoaure47@gmail.com)
 
 I am Marco Aurélio Moreira 😃. I am from São Paulo, Brazil and I work with technology over 8 years. I love to explore and learn about new things.
